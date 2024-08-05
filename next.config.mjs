@@ -1,11 +1,8 @@
 /** @type {import('next').NextConfig} */
-import path from 'path';
-
-
 const nextConfig = {
-  sassOptions: {
-    includePaths: [path.resolve(process.cwd(), 'styles')],
-  },
+    images: {
+        domains: ['via.placeholder.com', 'dummyimage.com'],
+    },
 };
 
 export default nextConfig;
