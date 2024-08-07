@@ -101,7 +101,7 @@ When suggesting enhancements, please include:
 ## Community
 
 - Join our [Discord server](link-to-discord) for discussions
-- Follow us on [Twitter](link-to-twitter) for updates
-- Send us a mail at 
+- Follow us on [Twitter](https://twitter.com/layout_labs) for updates
+- Send us a mail at ai.layoutlabs@gmail.com
 
 Thank you for contributing to [Your Project Name]!
