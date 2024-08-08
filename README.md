@@ -9,15 +9,20 @@ We're thrilled that you're interested in contributing to Layout LABS! This docum
 
 ## Table of Contents
 
-1. [Code of Conduct](#code-of-conduct)
-2. [Getting Started](#getting-started)
-3. [How Can I Contribute?](#how-can-i-contribute)
-4. [Style Guidelines](#style-guidelines)
-5. [Commit Messages](#commit-messages)
-6. [Pull Requests](#pull-requests)
-7. [Reporting Bugs](#reporting-bugs)
-8. [Suggesting Enhancements](#suggesting-enhancements)
-9. [Community](#community)
+- [Contributing to Layout LABS](#contributing-to-layout-labs)
+  - [Table of Contents](#table-of-contents)
+  - [Code of Conduct](#code-of-conduct)
+  - [Getting Started](#getting-started)
+  - [How Can I Contribute?](#how-can-i-contribute)
+    - [Reporting Bugs](#reporting-bugs)
+    - [Suggesting Enhancements](#suggesting-enhancements)
+    - [Code Contributions](#code-contributions)
+  - [Style Guidelines](#style-guidelines)
+  - [Commit Messages](#commit-messages)
+  - [Pull Requests](#pull-requests)
+  - [Reporting Bugs](#reporting-bugs-1)
+  - [Suggesting Enhancements](#suggesting-enhancements-1)
+  - [Community](#community)
 
 ## Code of Conduct
 
