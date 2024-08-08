@@ -7,7 +7,7 @@ interface DynamicFormProps {
     config: FormConfig;
 }
 
-const DynamicForm: React.FC<DynamicFormProps> = ({ config }) => {
+const DynamicForm: React.FC<DynamicFormProps> = ({ config }: DynamicFormProps) => {
 
     const [formData, setFormData] = useState<any>({});
     const [errors, setErrors] = useState<{ [key: string]: string }>({});
@@ -37,7 +37,7 @@ const DynamicForm: React.FC<DynamicFormProps> = ({ config }) => {
             return;
         }
 
-        console.log(data);
+        console.log(formData);
     };
 
     const renderField = (field: FormFieldConfig) => {
