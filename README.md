@@ -1,71 +1,112 @@
-# Next.js Custom Template
+<!-- # WebDevTool
 
----
+## How to Contribute -->
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), enhanced with FontAwesome and React Icons.
+
+# Contributing to Layout LABS
+
+We're thrilled that you're interested in contributing to Layout LABS! This document provides guidelines for contributing to our custom UI web development tool. By participating in this project, you agree to abide by its terms.
+
+## Table of Contents
+
+- [Contributing to Layout LABS](#contributing-to-layout-labs)
+  - [Table of Contents](#table-of-contents)
+  - [Code of Conduct](#code-of-conduct)
+  - [Getting Started](#getting-started)
+  - [How Can I Contribute?](#how-can-i-contribute)
+    - [Reporting Bugs](#reporting-bugs)
+    - [Suggesting Enhancements](#suggesting-enhancements)
+    - [Code Contributions](#code-contributions)
+  - [Style Guidelines](#style-guidelines)
+  - [Commit Messages](#commit-messages)
+  - [Pull Requests](#pull-requests)
+  - [Reporting Bugs](#reporting-bugs-1)
+  - [Suggesting Enhancements](#suggesting-enhancements-1)
+  - [Community](#community)
+
+## Code of Conduct
+
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [maintainer's email].
 
 ## Getting Started
 
-To create a new Next.js project using this template, you can use the following alias for convenience:
+1. Fork the repository on GitHub
+2. Clone your fork locally
+3. Set up the development environment (see [Development Setup](DEVELOPMENT.md))
+4. Create a new branch for your contribution
+5. Make your changes
+6. Push your changes to your fork on GitHub
+7. Submit a pull request to the main repository
 
-```bash
-alias nextapp='npx create-next-app@latest -e https://github.com/okeomasilachi/next-temp'
-```
+## How Can I Contribute?
 
-Then, to create a new project:
+### Reporting Bugs
 
-```bash
-nextapp my-new-app
-```
+- Use the issue tracker to report bugs
+- Describe the issue in detail, including steps to reproduce
+- Include your environment details (OS, browser version, etc.)
 
-After setting up your project, navigate into your project directory:
+### Suggesting Enhancements
 
-```bash
-cd my-new-app
-```
+- Use the issue tracker to suggest enhancements
+- Clearly describe the feature and its potential benefits
+- Discuss possible implementations
 
-Run the development server:
+### Code Contributions
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Work on open issues, especially those labeled 'good first issue' or 'help wanted'
+- Improve documentation
+- Add new features or enhance existing ones
+- Fix bugs
+- Optimize performance
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Style Guidelines
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Follow the [JavaScript Style Guide](STYLE_GUIDE.md)
+- Use meaningful variable and function names
+- Write clear comments and documentation
+- Ensure your code is accessible and follows best practices for web development
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Commit Messages
 
-## Included Packages
+- Use the present tense ("Add feature" not "Added feature")
+- Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+- Limit the first line to 72 characters or less
+- Reference issues and pull requests liberally after the first line
 
-This template comes pre-configured with the following packages:
+## Pull Requests
 
-- [`@fortawesome/fontawesome-svg-core`](https://www.npmjs.com/package/@fortawesome/fontawesome-svg-core)
-- [`@fortawesome/free-solid-svg-icons`](https://www.npmjs.com/package/@fortawesome/free-solid-svg-icons)
-- [`@fortawesome/react-fontawesome`](https://www.npmjs.com/package/@fortawesome/react-fontawesome)
-- [`react-icons`](https://www.npmjs.com/package/react-icons)
+1. Ensure your code adheres to the style guidelines
+2. Include tests for new features or bug fixes
+3. Update documentation as necessary
+4. Describe your changes in detail in the pull request description
+5. Link any relevant issues
+6. Be prepared to discuss your changes and make adjustments if necessary
 
-## Learn More
+## Reporting Bugs
 
-To learn more about Next.js, take a look at the following resources:
+When reporting bugs, please include:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- A clear and descriptive title
+- Detailed steps to reproduce the bug
+- Expected behavior
+- Actual behavior
+- Screenshots if applicable
+- Your environment details
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Suggesting Enhancements
 
-## Deploy on Vercel
+When suggesting enhancements, please include:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- A clear and descriptive title
+- Detailed description of the proposed feature
+- Any potential implementation details
+- Why this enhancement would be useful to most users
 
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Community
 
----
+- Join our [Discord server](link-to-discord) for discussions
+- Follow us on [Twitter](https://twitter.com/layout_labs) for updates
+- Send us a mail at ai.layoutlabs@gmail.com
 
-This README provides clear instructions on how to use the custom template and includes information about the included packages and resources for learning more about Next.js.
+Thank you for contributing to Layout LABS😊👌🪴!
