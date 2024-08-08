@@ -3,9 +3,9 @@
 ## How to Contribute -->
 
 
-# Contributing to [Your Project Name]
+# Contributing to Layout LABS
 
-We're thrilled that you're interested in contributing to [Your Project Name]! This document provides guidelines for contributing to our custom UI web development tool. By participating in this project, you agree to abide by its terms.
+We're thrilled that you're interested in contributing to Layout LABS! This document provides guidelines for contributing to our custom UI web development tool. By participating in this project, you agree to abide by its terms.
 
 ## Table of Contents
 
@@ -104,4 +104,4 @@ When suggesting enhancements, please include:
 - Follow us on [Twitter](https://twitter.com/layout_labs) for updates
 - Send us a mail at ai.layoutlabs@gmail.com
 
-Thank you for contributing to [Your Project Name]!
+Thank you for contributing to Layout LABS😊👌🪴!
